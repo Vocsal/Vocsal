@@ -23,25 +23,15 @@ I work across the full application surface: product thinking, frontend experienc
 - Exploring AI-assisted content production and short-video workflows
 - Keeping interfaces simple, fast, and useful
 
-## Selected Projects
+## Working Areas
 
-- [short-video-factory](https://github.com/Vocsal/short-video-factory)  
-  An AI-assisted workflow project for short-video content production.
+Instead of treating old repositories as polished showcases, I use this GitHub profile as a record of ongoing engineering interests:
 
-- [Vocsal.github.io](https://github.com/Vocsal/Vocsal.github.io)  
-  My personal website on GitHub Pages.
-
-- [note](https://github.com/Vocsal/note)  
-  My long-running technical notes and personal knowledge archive.
-
-- [node-script](https://github.com/Vocsal/node-script)  
-  A small Node.js scripting environment for repeatable automation tasks.
-
-- [Solar3D](https://github.com/Vocsal/Solar3D)  
-  A 3D solar-system visualization project.
-
-- [water3D](https://github.com/Vocsal/water3D)  
-  A compact Web 3D experiment around water rendering.
+- **AI applications:** product workflows, prompt systems, LLM API integration, and automation around real tasks.
+- **Full-stack delivery:** frontend interfaces, backend services, data flows, deployment, and the glue code that makes prototypes usable.
+- **Content tooling:** experiments around AI-assisted writing, media generation, and short-video production workflows.
+- **Creative web engineering:** Three.js, WebGL, interactive visualization, and browser-based 3D experiments.
+- **Personal knowledge systems:** notes, scripts, and small utilities that help me think, build, and iterate faster.
 
 ## Tech Stack
 
