@@ -23,25 +23,15 @@
 - 探索 AI 辅助内容生产和短视频工作流
 - 让界面保持简单、快速、可理解
 
-## 代表项目
+## 工程方向
 
-- [short-video-factory](https://github.com/Vocsal/short-video-factory)  
-  AI 辅助短视频内容生产工作流项目。
+相比把旧仓库包装成“代表项目”，我更希望这个主页呈现我持续关注和实践的工程方向：
 
-- [Vocsal.github.io](https://github.com/Vocsal/Vocsal.github.io)  
-  我的 GitHub Pages 个人网站。
-
-- [note](https://github.com/Vocsal/note)  
-  长期维护的技术笔记和个人知识库。
-
-- [node-script](https://github.com/Vocsal/node-script)  
-  用于自动化任务的 Node.js 脚本运行环境。
-
-- [Solar3D](https://github.com/Vocsal/Solar3D)  
-  太阳系 3D 可视化项目。
-
-- [water3D](https://github.com/Vocsal/water3D)  
-  Web 3D 水体渲染实验。
+- **AI 应用：** 产品工作流、Prompt 系统、LLM API 集成，以及围绕真实任务的自动化能力。
+- **全栈交付：** 前端界面、后端服务、数据流、部署，以及让原型真正可用的连接层代码。
+- **内容工具：** AI 辅助写作、媒体生成和短视频生产工作流相关实验。
+- **创意 Web 工程：** Three.js、WebGL、交互式可视化和浏览器 3D 实验。
+- **个人知识系统：** 技术笔记、脚本和小工具，用来帮助自己更快思考、构建和迭代。
 
 ## 技术栈
 
