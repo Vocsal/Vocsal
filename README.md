@@ -1,46 +1,46 @@
 # Hi, I'm Vocsal
 
-I'm an **AI Application Full-Stack Engineer** focused on turning AI capabilities into usable products.
+I build AI applications. Not wrappers around APIs — products people actually use.
 
-I work across the full application surface: product thinking, frontend experience, backend services, model/API integration, automation workflows, and the practical details that make an AI feature reliable enough for real users.
+I work across frontend, backend, model integration, and the practical details that make AI features reliable in production. I care more about whether something works for real users than whether it uses the latest model.
 
 [中文版本](./README_zh.md)
 
-## What I Build
+## What I build
 
-- AI-native web applications and internal tools
-- Full-stack product prototypes from idea to usable demo
-- LLM-powered workflows, agents, and automation systems
-- Frontend experiences with React, TypeScript, and modern web tooling
-- Node.js services, scripts, crawlers, and data-processing utilities
-- Creative web experiments with Three.js and browser-based 3D
+- AI-native apps and internal tools that solve actual problems
+- Full stack prototypes, from idea to working demo
+- LLM workflows, agents, and automation systems
+- React/TypeScript frontends with attention to UX details
+- Node.js services, scripts, crawlers, data processing
+- Three.js and WebGL experiments when I want to build something visual
 
-## Current Focus
+## Current interests
 
-- Building practical AI applications with strong user experience
-- Connecting LLMs with real product workflows and business logic
-- Designing reliable tool-use, retrieval, and automation patterns
-- Exploring AI-assisted content production and short-video workflows
-- Keeping interfaces simple, fast, and useful
+- AI applications that feel good to use, not just technically impressive
+- Getting LLMs to fit into real business logic and product flows
+- Tool use, retrieval, and automation patterns that stay reliable
+- AI-assisted content production and short video workflows
+- Keeping interfaces fast, simple, and understandable
 
-## Working Areas
+## What's here
 
-Instead of treating old repositories as polished showcases, I use this GitHub profile as a record of ongoing engineering interests:
+This profile is a working log, not a polished portfolio. I don't package old repos as showcase projects — I'd rather show what I'm actually thinking about:
 
-- **AI applications:** product workflows, prompt systems, LLM API integration, and automation around real tasks.
-- **Full-stack delivery:** frontend interfaces, backend services, data flows, deployment, and the glue code that makes prototypes usable.
-- **Content tooling:** experiments around AI-assisted writing, media generation, and short-video production workflows.
-- **Creative web engineering:** Three.js, WebGL, interactive visualization, and browser-based 3D experiments.
-- **Personal knowledge systems:** notes, scripts, and small utilities that help me think, build, and iterate faster.
+- AI applications — prompt engineering, LLM API integration, automation around real tasks
+- Full stack delivery — frontends, backends, data flows, deployment, and the glue code that connects everything
+- Content tooling — AI writing, media generation, video production workflows
+- Creative web — Three.js, WebGL, interactive visualization, browser-based 3D
+- Personal tools — notes, scripts, small utilities that help me think and build faster
 
-## Tech Stack
+## Stack
 
-**AI & application layer:** LLM APIs, agents, prompt engineering, RAG, workflow automation  
-**Frontend:** TypeScript, JavaScript, React, Vite, Three.js, WebGL  
-**Backend & tooling:** Node.js, REST APIs, scripts, crawlers, GitHub Actions  
-**Product craft:** rapid prototyping, UX detail, system design, deployment
+AI: LLM APIs, agents, prompt engineering, RAG, workflow automation  
+Frontend: TypeScript, JavaScript, React, Vite, Three.js, WebGL  
+Backend: Node.js, REST APIs, scripts, crawlers, GitHub Actions  
+Product: rapid prototyping, UX, system design, deployment
 
-## Around The Web
+## Links
 
 - GitHub: [github.com/Vocsal](https://github.com/Vocsal)
 - Website: [Vocsal.github.io](https://Vocsal.github.io)
