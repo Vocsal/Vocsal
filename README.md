@@ -43,4 +43,5 @@ Product: rapid prototyping, UX, system design, deployment
 ## Links
 
 - GitHub: [github.com/Vocsal](https://github.com/Vocsal)
-- Website: [Vocsal.github.io](https://Vocsal.github.io)
+- Website: [Code01](https://code01.cc)
+- Blog: [Blog](https://blog.code01.cc)

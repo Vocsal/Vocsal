@@ -43,4 +43,5 @@ AI：LLM API、Agent、Prompt 工程、RAG、工作流自动化
 ## 链接
 
 - GitHub: [github.com/Vocsal](https://github.com/Vocsal)
-- 个人网站: [Vocsal.github.io](https://Vocsal.github.io)
+- 个人网站: [Code01](https://code01.cc)
+- 博客: [Blog](https://blog.code01.cc)
